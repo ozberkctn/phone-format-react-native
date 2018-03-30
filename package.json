@@ -1,0 +1,48 @@
+{
+  "_args": [
+    [
+      "phoneformat-react-native@1.0.3",
+      "/Users/ozberkcetin/Desktop/sekiz/yolcu"
+    ]
+  ],
+  "_from": "phoneformat-react-native@1.0.3",
+  "_id": "phoneformat-react-native@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-8E34nnk0HDisO/uvpOwSDYn/GiI=",
+  "_location": "/phoneformat-react-native",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "phoneformat-react-native@1.0.3",
+    "name": "phoneformat-react-native",
+    "escapedName": "phoneformat-react-native",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/phoneformat-react-native/-/phoneformat-react-native-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/Users/ozberkcetin/Desktop/sekiz/yolcu",
+  "description": "####**A javascript phone formatter for React Native**",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autowrap": "^0.3.0",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-text-replace": "^0.4.0",
+    "jquery": "^2.1.3",
+    "qunit": "^0.7.5"
+  },
+  "main": "dist/phone-format-exports.js",
+  "name": "phoneformat-react-native",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "version": "1.0.3"
+}
